@@ -66,7 +66,7 @@ The dataset includes the following key attributes:
 ### Dataset Overview
 
 - **Source**: [Kaggle - Full Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset)
-- **Total Records**: 4,789 movies after cleaning.
+- **Total Records**: +-18,956 movies after cleaning.
 - **Input Attributes**: `imdbAverageRating`, `releaseYear`, `imdbNumVotes`.
 - **Output Attribute**: `movie_quality_score` (calculated using fuzzy logic).
 
